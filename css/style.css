@@ -16,6 +16,7 @@ body {
     height: 75px;
     top: 0;
     position: fixed;
+    z-index: 101;
 }
 
 h3.logotext {
@@ -212,6 +213,7 @@ p.esport2 {
     text-align: center;
     font-family: "VT232", monospace;
     font-size: 13px;
+    z-index: 101;
 }
 
 /* league.html code */
