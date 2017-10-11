@@ -161,11 +161,11 @@ p.vr2 {
 
 .esport {
     border: 1px solid #1570ff;
-    position: relative;
+    position: absolute;
     text-shadow: 3px 3px 3px #000000;
     width: 50%;
-    top: 43px;
-    left: 410px;
+    top: 45px;
+    left: 160px;
 }
 
 p.esport {
@@ -174,7 +174,7 @@ p.esport {
     z-index: 100;
     position: absolute;
     top: 45px;
-    left: 415px;
+    left: 165px;
     font-size: 20px;
     border: 0px solid #1570ff;
     text-shadow: 3px 3px 3px #000000;
@@ -188,7 +188,7 @@ p.esport2 {
     z-index: 100;
     position: absolute;
     top: 104px;
-    left: 675px;
+    left: 425px;
     font-size: 10px;
     border: 0px solid #1570ff;
     text-shadow: 2px 2px 2px #000000;
@@ -199,7 +199,7 @@ p.esport2 {
     width: 800px;
     left: 250px;
     margin: 0 auto;
-    position: absolute;
+    position: relative;
     z-index: -1;
 }
 
